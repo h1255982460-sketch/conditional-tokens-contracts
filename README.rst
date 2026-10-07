@@ -3,7 +3,7 @@ Conditional Tokens Contracts
 
 .. image:: https://travis-ci.org/gnosis/conditional-tokens-contracts.svg?branch=master
    :target: https://travis-ci.org/gnosis/conditional-tokens-contracts
-   :alt: Build Status
+   :alt: Build StatusX402
 
 .. image:: https://badges.greenkeeper.io/gnosis/conditional-tokens-contracts.svg
    :target: https://greenkeeper.io/
